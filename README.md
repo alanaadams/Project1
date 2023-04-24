@@ -1,2 +1,2 @@
 # Project1
-Alana, Maria, Lincoln, Sharada
+Alana Adams, Maria Gutierrez Valencia, Lincoln Martin, Sharada Muthusubramanian
