@@ -1,0 +1,43 @@
+Project1-Group1
+--------------------
+
+Project Title: Comparison of Housing in Charlottesville, Virginia and Richmond, Virginia
+
+Team Members: Alana Adams, Maria Gutierrez Valencia, Lincoln Martin, Sharada Muthusubramanian
+
+Project Description/Outline: 
+-demographic and housing data to understand which city is better to live in
+	-city size
+	-city demographics
+	-housing price
+	-walking score
+	-school rating
+	-public transportation
+	-crime
+	-attractions
+	-household size
+	-amenities
+
+Research Questions to Answer: 
+Hypothesis: It is better to live in Richmond, Virginia than Charlottesville, Virginia.
+1. Does CVL or RVA have preferrable housing price?
+2. Does CVL or RVA have a preferrable Cost of Living to Crime ratio?
+3. Does CVL or RVA have preferrable public transportation
+	-Comparing walking scores
+4. Does CVL or RVA have preferrable schools?
+
+
+Datasets To Be Used: 
+	-Zillow>Public Data>Public Records
+	-Census
+
+Rough Breakdown of Tasks
+	1. Get Data
+	2. Clean Data as needed
+		a) merge data
+		b) define parameters
+	3. Organize the Data based on project needs
+	4. Create dataframes to answer hypothesis
+	5. Vizualizations of output
+	6. Statistical Analysis
+	7. Presentation
