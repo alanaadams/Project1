@@ -9,15 +9,15 @@ Project Description/Outline:
 
 Research Questions to Answer: 
 Hypothesis: More bedrooms drive higher prices than any other home feature.
-1. Does area of house or number of bedrooms matter more to homebuyers?
+1. Does area of house or number of bedrooms matter more to homebuyers? 
 2. Is a furnished home more preferred than an unfurnished home? 
-3. Does the main road status matter to homebuyers?
-4. Does number of parking spaces have any correlation to housing price?
-5. Do New Yorkers prefer houses with basements over guestrooms?
-6. Can we predict housing price based on area and bedroom size?
-7. Do the number of bathrooms correlate with the number of bedrooms?
-8. Do we see a relationship between stories and number of stories in a house?
-9. Does the total number of rooms (bathroom, bedroom, guestroom, basement) increase home price more than total area?
+3. Does the main road status matter to homebuyers? 
+4. Does number of parking spaces have any correlation to housing price? 
+5. Do New Yorkers prefer houses with basements over guestrooms? 
+6. Can we predict housing price based on area of the house?
+7. Do the number of bathrooms correlate with the number of bedrooms? 
+8. Do we see a relationship between price and number of stories in a house? 
+9. Does the total number of rooms (bathroom, bedroom, guestroom, basement) increase home price more than total area? 
 
 
 
