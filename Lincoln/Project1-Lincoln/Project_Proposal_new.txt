@@ -1,0 +1,35 @@
+Project1-Group1
+--------------------
+
+Project Title: Which housing factor is most valuable to homebuyers in New York City?
+
+Team Members: Alana Adams, Maria Gutierrez Valencia, Lincoln Martin, Sharada Muthusubramanian
+
+Project Description/Outline: 
+
+Research Questions to Answer: 
+Hypothesis: More bedrooms drive higher prices than any other home feature.
+1. Does area of house or number of bedrooms matter more to homebuyers?
+2. Is a furnished home more preferred than an unfurnished home? 
+3. Does the main road status matter to homebuyers?
+4. Does number of parking spaces have any correlation to housing price?
+5. Do New Yorkers prefer houses with basements over guestrooms?
+6. Can we predict housing price based on area and bedroom size?
+7. Do the number of bathrooms correlate with the number of bedrooms?
+8. Do we see a relationship between stories and number of stories in a house?
+9. Does the total number of rooms (bathroom, bedroom, guestroom, basement) increase home price more than total area?
+
+
+
+Datasets To Be Used: 
+	-kaggle>housing <https://www.kaggle.com/datasets/yasserh/housing-prices-dataset>
+
+Rough Breakdown of Tasks
+	1. Get Data
+	2. Clean Data as needed
+		a) define parameters
+	3. Organize the Data based on project needs
+	4. Create dataframes to answer hypothesis
+	5. Vizualizations of output
+	6. Statistical Analysis
+	7. Presentation
